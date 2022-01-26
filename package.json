@@ -1,0 +1,19 @@
+{
+  "name": "web-to-struct",
+  "version": "1.0.0",
+  "description": "A tool for data structuring, mainly for web data. 将数据格式化的小工具，主要处理web数据。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BD777/web-to-struct-js.git"
+  },
+  "author": "BD777",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BD777/web-to-struct-js/issues"
+  },
+  "homepage": "https://github.com/BD777/web-to-struct-js#readme"
+}
