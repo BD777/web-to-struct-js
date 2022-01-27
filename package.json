@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/BD777/web-to-struct-js/issues"
   },
-  "homepage": "https://github.com/BD777/web-to-struct-js#readme"
+  "homepage": "https://github.com/BD777/web-to-struct-js#readme",
+  "dependencies": {
+    "jsdom": "^19.0.0"
+  },
+  "devDependencies": {
+    "axios": "^0.25.0"
+  }
 }
